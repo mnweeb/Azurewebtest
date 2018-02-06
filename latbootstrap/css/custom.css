@@ -1,0 +1,156 @@
+/*navbar*/
+nav #logo-home
+{
+	font-family: 'Satisfy', cursive;
+}
+
+nav #nav-menu
+{
+	font-family: 'Cuprum', serif;
+}
+
+/*header*/
+header #cover
+{
+	/* width: 1400px; */
+	height: auto;
+	background: url("../../latbootstrap/img/header-img-1.jpg") no-repeat fixed;
+	background-size: cover;
+}
+
+header #cover-text
+{
+	color: #ecf0f1;
+	font-family: 'Spectral SC', serif;
+	margin: 750px 0px 0px 700px;
+	opacity: 0.7;
+}
+
+#logo-sosmed
+{
+	margin: 90px 0 0 1150px;
+}
+
+#linkedin-logo
+{
+	color: #fff;
+}
+
+#linkedin-logo a:link
+{
+	color: #fff;
+}
+
+#linkedin-logo a:hover
+{
+	color: #2980b9;
+}
+
+#ig-logo
+{
+	color: #fff;
+}
+
+#ig-logo a:link
+{
+	color: #fff;
+}
+
+#ig-logo a:hover
+{
+	color: hotpink;
+}
+
+#fb-logo
+{
+	color: #fff;
+}
+
+#fb-logo a:link
+{
+	color: #fff;
+}
+
+#fb-logo a:hover
+{
+	color: darkblue;
+}
+
+#email-logo
+{
+	color: #fff;
+}
+
+#email-logo a:link
+{
+	color: #fff;
+}
+
+#email-logo a:hover
+{
+	color: firebrick;
+}
+
+/*jumbotron*/
+#personal-info
+{
+	margin-bottom: 50px;
+}
+
+.text-muted
+{
+	opacity: 0.8;
+}
+
+/*personal menu*/
+#personal-menu
+{
+	margin-bottom: 50px;
+}
+
+#personal-menu a:link, a:hover
+{
+	color: #34495e;
+	text-decoration: none;
+}
+
+/*#l-exp
+{
+	margin: 15px 0 0 -110px;
+}
+
+#l-edu
+{
+	margin: 15px 0 0 150px;
+}
+
+#l-skill
+{
+	margin: 15px 0 0 400px;
+}
+
+#l-prj
+{
+	margin: 15px 0 0 750px;
+}*/
+
+/*contact*/
+#map
+{
+	height: 500px;
+    width: 100%;
+    margin: 25px 0;
+}
+
+/*footer*/
+footer
+{
+	background: darkslategray;
+	padding: 10px 0;
+}
+
+footer p
+{
+	margin: 0 0 0 0;
+	color: oldlace;
+}
